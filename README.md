@@ -12,8 +12,7 @@ Este projeto teve o objetivo de gerar um dashboard sobre a dados financeiros ind
 
 ## ✨ Resultado
 
-<div align="center">
-    <a src="output/Planilha.xlsx" title="Planilha"></a>
-</div>
+<a href="https://github.com/crodgit/dashboard-planilha-inteligente/blob/main/output/Dashboard.xlsx" title="View file now"> Clique aqui para acessar</a>
+
 
 ---
